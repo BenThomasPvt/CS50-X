@@ -1,0 +1,21 @@
+HTML Tags Used:
+1. <html>
+2. <head>
+3. <body>
+4. <nav>
+5. <a>
+6. <ul>
+7. <li>
+8. <div>
+9. <h1>
+10. <p>
+
+CSS Properties Used:
+1. padding-top
+2. color
+3. max-width
+4. background-color
+5. border-color
+
+JavaScript Usage: Added interactivity with a button click alert.
+Bootstrap Usage: Used Bootstrap for responsive navigation and styling.

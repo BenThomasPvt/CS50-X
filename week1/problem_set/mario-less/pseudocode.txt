@@ -1,0 +1,5 @@
+Ask height within range : 1 - 8 (do while)
+Do left aligned pyramid (Nested for loop(2))
+Way to make it left aligned (Nested loop(3)) :
+    spaces = height - i
+    # = height - (height - i)

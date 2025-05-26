@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Faster compared to sort3 during sorted
+
+sort2 uses: Merge sort
+
+How do you know?: Fastest during ranodom
+
+sort3 uses: Selection sort
+
+How do you know?: Slower compared to sort1 during sorted

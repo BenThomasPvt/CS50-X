@@ -1,0 +1,13 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+
+The obvious way to characterize their audio aura is by looking at the average energy, valence, and danceability of a person’s top 100 songs from the past year.
+
+Average energy = 0.65906
+Average valence = 0.484443
+Average danceability = 0.71646
+
+Based on the high average energy and danceability, the listener's audio aura is best characterized by Orange - Oranges are the rebellious and bold type. They share a need for high-energy, confidence-boosting sounds.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+
+Relying just on average energy, valence, and danceability is likely to miss the full picture of a listener's musical taste, so a better approach would involve looking at genres, moods that the user is listening to and getting personal insights from the user themselves.
