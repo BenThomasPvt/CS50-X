@@ -16,6 +16,19 @@ CS50x covers the following topics in-depth:
 - ✅ SQL and Web Development (HTML, CSS, Flask)
 
 ---
+## 📁 Folder Structure
+
+cs50-X/
+
+├── week1/          # C Basics: Hello, Mario, Cash  
+├── week2/          # Strings: Readability, Caesar, Substitution  
+├── week3/          # Algorithms: Plurality, Runoff, Tideman  
+├── week4/          # Memory: Filter (BMP), Recover  
+├── week5/          # Data Structures: Speller (Trie/Hash Table)  
+├── week6/          # Python Transition: Refactoring C code  
+├── week7/          # SQL: Data Queries, Movies, Normalization  
+├── week8/          # Web: Homepage, Finance (Flask, Jinja)  
+└── final_project/  # Custom project using full-stack or advanced concepts
 
 
 > Each folder contains source code, problem description, and my solution.
